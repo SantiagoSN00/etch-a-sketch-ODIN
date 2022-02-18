@@ -1,0 +1,19 @@
+/* spacing */
+
+table {
+    width: 500px;
+    height: 500px;
+    table-layout: fixed;
+    border-collapse: collapse;
+    border: 3px solid purple;
+  }
+th,td{
+    border:1 px solid black
+}
+.bg-black{
+    background-color: black;
+}
+.btn-clean{
+    margin: 10px 0px;
+    margin-left:200px;
+}
