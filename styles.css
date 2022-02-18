@@ -1,0 +1,28 @@
+.container{
+    display:grid;
+    justify-content: center;
+}
+.container > *{
+    padding-bottom: 100%;
+}
+.cells{
+    border: 1px dotted black;
+}
+.bg-black{
+    background-color: black;
+}
+.bg-white{
+    background-color: white;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+.btn-clear{
+
+
+    text-align: center;
+    
+}
